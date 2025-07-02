@@ -113,6 +113,3 @@ MIT License
 
 ---
 
-## 🙋‍♂️ Contributing
-
-Feel free to fork and open a pull request if you'd like to improve or extend this boilerplate!
